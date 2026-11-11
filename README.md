@@ -199,4 +199,4 @@ This repository serves as the official landing page for Advanced Task Killer. Th
 **Get the most recent version of Advanced Task Killer today!**
 
 ---
-**Last updated:** 2026-11-10 22:17:13 UTC
+**Last updated:** 2026-11-11 02:40:08 UTC
